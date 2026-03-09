@@ -1,3 +1,4 @@
+<img width="965" height="549" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/ca0c2454-6274-4b82-a5db-8d830ce22046" />
 # Electric Vehicle Charging Infrastructure Analysis (Power BI)
 
 ## Project Overview
